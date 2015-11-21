@@ -10,7 +10,7 @@ public class Spawner : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
+		Debug.Log ("tesssst");
 	}
 	
 	// Update is called once per frame
